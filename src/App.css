@@ -1,0 +1,61 @@
+.main{
+    background-color:;
+    width:1200px;
+    height:1300px;
+    margin:auto;
+}
+.ccard{
+    background-color: white;
+    width:300px;
+    height:450px;
+    box-shadow:5px 5px 5px 5px;
+    margin:auto;
+    position:relative;
+    top:10px;
+    border-radius:4px 4px 4px 4px;
+}
+.img img{
+    position:relative;
+    top:5px;
+    left:8px;
+    
+    
+}
+.ibr{
+    position: relative;
+    left:20px;
+    top:-55px;
+}
+.tme{
+    position:relative;
+    left:110px;
+    top:-55px;
+    color:grey;
+}
+.txt p{
+    position:relative;
+    top:-17px;
+    left:9px;
+    font-size:15px;
+
+}
+.gunim{
+    position:relative;
+    top:-24px;
+    
+}
+.lke{
+    position:relative;
+    top:-20px;
+    left:6px;
+    color:grey;
+}
+.buttn{
+    position:relative;
+    top:-9px;
+}
+.btn{
+    font-size:17px;
+    width:100px;
+    height:30px;
+}
